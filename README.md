@@ -13,7 +13,7 @@ Interested in creating interactive web apps and exploring real-world engineering
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/rashidpalathingal" target="_blank">
+<a href="https://linkedin.com/in.rashidpalathingal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/mhd.rashiee" target="_blank">
