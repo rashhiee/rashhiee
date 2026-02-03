@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rashid 
 ### A passionate full-stack developer  
----
+---  
 
 ###  About Me
 
