@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rashid 
-### A passionate full-stack developer
+### A passionate full-stack developer  
 ---
 
 ###  About Me
